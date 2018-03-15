@@ -1,0 +1,1 @@
+LessBalanceError = Class.new(StandardError)
